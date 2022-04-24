@@ -98,7 +98,6 @@ Open source
   Techs: Unity3D, C#, Texture Packer, PVRTC, Photoshop, base64, AES, Visual Studio, Resharper, git, Bitbucket
 
 - Treasure Simulator DOTA 2
-```md
   App(Android) | Owner | 07.2015-01.2016 | [screenshots](https://drive.google.com/drive/folders/1GCXxMIleoelPnjUELFFsoc8NutS5F4r6?usp=sharing)
 
   App simulate opening treasures from DOTA 2.
@@ -109,7 +108,7 @@ Open source
   Metrics
     Installs - 53.48K,
     Average rating - 4.04,
-```
+
 - [DOTA 2 Wiki Parser v2](https://github.com/Ciberusps/DOTA2WikiParser-V2)
 
   Unity3D app | Owner | 24.01.2017 | [screenshots](https://drive.google.com/drive/folders/1f90i-dzKWVPdOX8FL9x-P8X2onVR-j2E?usp=sharing)
