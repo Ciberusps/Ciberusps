@@ -15,17 +15,12 @@ react, react native, nodejs, nextjs, electron, typescript, koa, nodejs, styled-c
 
 [@winstrike](https://winstrike.gg/) - esports holding
 
-- [@winstrike/booking-mobile-app](https://github.com/winstrike/booking-mobile-app) - react-native + expo "bare", developed mobile app for booking seats in computer clubs from scratch, links on [android](https://plyay.google.com/store/apps/details?id=gg.winstrike.booking) and [ios](https://apps.apple.com/us/app/id1493178030?platform=iphone)
+- [@winstrike/booking-mobile-app](https://github.com/winstrike/booking-mobile-app) - react-native + expo "bare", developed mobile app for booking seats in computer clubs from scratch, links on [android](https://plyay.google.com/store/apps/details?id=gg.winstrike.booking), [ios](https://apps.apple.com/us/app/id1493178030?platform=iphone) and [screenshots](https://drive.google.com/drive/folders/19WL4fDZenSHa6JQpl0V69f9lds3cnyJs?usp=sharing)
   - made authentication flow - register, login, password reset, authentication with socials
   - onboarding flow - city selection, club selection, club info screen
   - booking flow - home screen, club section selection, section info screen, date and time selection screen, pack selection screen, seats selection screen, checkout screen and checkout webview with payment provider
   - announcements screen - one of the main communication channel with players, by clicking on push user sended on specific announcement
   - settings screen - u know editing user data, link socials and so on... those interesting things...
-  <details>
-    <summary>Screenshots & videos</summary>
-
-    [![Watch the video](https://lh3.googleusercontent.com/d/1-w89fOAJgv6SeJpLNj6IbwvdIw3rAPoX)](https://drive.google.com/file/d/1bO5FHds2ukcAX3fk7hDNBR9HqsTd3RbE/view?usp=sharing)
-  </details>
 - [@winstrike/winstrike-id](https://github.com/winstrike/winstrike-id) - nextjs(🙃) + koa, developed authentication service from scratch using oauth2/openid, it used in all @winstrike products like booking-mobile-app, booking-api, booking-widget, overplay, admin-desktop. Improved in authentication a lot, read some tech specs about OAuth2/OpenID and authentication security
 - [@winstrike/booking-api](https://github.com/winstrike/booking-api) - developed backend for sending notifications in `booking-api`
 - [@winstrike/booking_admin](https://github.com/winstrike/booking_admin) - react + CRA, backoffice for computer clubs admins, reworked whole frontend, simplified routing and simplified UX.
@@ -49,7 +44,7 @@ Open source
 
 - [Artifaction.gg](https://artifaction.gg/)
 
-  Site about Artifact | Full-stack developer | 09.2018
+  Site about Artifact | Full-stack developer | 09.2018 | [screenshots](https://drive.google.com/drive/folders/1RidLVceBWTP1dMExlAsfBqtLKODKQVo-?usp=sharing)
 
   Artifaction.gg - site about [valve](https://www.valvesoftware.com/en/) game - Artifact started by DOTA2/Esports enthusiasts well known in DOTA 2 community([@SirActionSlacks](https://twitter.com/@SirActionSlacks), [@Cyborgmatt](https://twitter.com/@Cyborgmatt), [@SUNSfanTV](https://twitter.com/@SUNSfanTV), [@bukkadota](https://twitter.com/@bukkadota), [@followNoxville](https://twitter.com/@followNoxville)) to build best community project where people may come for anything they want - casual videos, twitch shows, stats, tournaments, hot news, cards info, learning, cardsmith to make their own cards, deck builder, pathfinder and much more.
 
@@ -63,7 +58,7 @@ Open source
 
 - [Bubble Text](https://github.com/dkubatko/BubbleText)
 
-  Twitch extension | Front-End developer & Co-founder | 04.2018
+  Twitch extension | Front-End developer & Co-founder | 04.2018 | [screenshots](https://drive.google.com/drive/folders/1BqGewZzHA5TSAwPi0dftpX47z6NAYIo1?usp=sharing)
 
   First of several exts using "Bits in Extensions". Selected by [Twitch.tv](https://twitch.tv/) for feature placement.
 
@@ -75,7 +70,7 @@ Open source
 
 - [GameStat](https://github.com/Ciberusps/gamestat)
 
-  Twitch extension | Owner | 09.2017
+  Twitch extension | Owner | 09.2017 | [screenshots](https://drive.google.com/drive/folders/1sNbjxvxU9S5ONYIgdLiKe2Wjp81BRsth?usp=sharing)
 
   [Twitch extension](https://dashboard.twitch.tv/extensions/4xthrtbw4oqjxl478qsjspia8vt3ra) provide in-game statistics for the streamers currently support DOTA 2
   Also integrated data from awesome personal esports training lab - GOSU.AI u can read about it here
@@ -95,7 +90,7 @@ Open source
 
 - Treasure Simulator 2
 
-  Prototype | Owner | 24.01.2017
+  Prototype | Owner | 24.01.2017 | [screenshots](https://drive.google.com/drive/folders/1LLXjpPTuQ2oZtjRJUZdJtH9Wfc0x2GQz?usp=sharing)
 
   Second version of my "Treasure Simulator DOTA 2" app.
   Refactored and updated "DOTA 2 Wiki Parser" to v2.
@@ -103,7 +98,8 @@ Open source
   Techs: Unity3D, C#, Texture Packer, PVRTC, Photoshop, base64, AES, Visual Studio, Resharper, git, Bitbucket
 
 - Treasure Simulator DOTA 2
-  App(Android) | Owner | 07.2015-01.2016
+```md
+  App(Android) | Owner | 07.2015-01.2016 | [screenshots](https://drive.google.com/drive/folders/1GCXxMIleoelPnjUELFFsoc8NutS5F4r6?usp=sharing)
 
   App simulate opening treasures from DOTA 2.
   Items are parsed from DOTA 2 Wiki with my "DOTA 2 Wiki Parser"
@@ -113,25 +109,24 @@ Open source
   Metrics
     Installs - 53.48K,
     Average rating - 4.04,
-
+```
 - [DOTA 2 Wiki Parser v2](https://github.com/Ciberusps/DOTA2WikiParser-V2)
 
-  Unity3D app | Owner | 24.01.2017
+  Unity3D app | Owner | 24.01.2017 | [screenshots](https://drive.google.com/drive/folders/1f90i-dzKWVPdOX8FL9x-P8X2onVR-j2E?usp=sharing)
 
   Moved to Unity codebase of "DOTA 2 Wiki Parser" with updated UI. Made for "Treasure Simulator 2" project
 
   Techs: Unity3D, HtmlAgilityPack, Json.NET
 
 - [DOTA 2 Wiki Parser](https://github.com/Ciberusps/DOTA2WikiParser)
-  .NET app | Owner
+  .NET app | Owner | 07.2015-01.2016 | [screenshots](https://drive.google.com/drive/folders/1onh7GwZ3jwnA8vEfDSsNAELFvGOaOgvl?usp=sharing)
 
   DOTA 2 Wiki(dota2.gamepedia.com) parser for "Treasure Simulator DOTA 2" project.
 
   Techs: C#, .NET, Visual Studio, Resharper, HtmlAgilityPack, MetroUI, MiniJSON
 
-- film search
-- Yandex Mobilization 2016
+- [FilmSearch](https://github.com/Ciberusps/FilmSearch) - [screenshots](https://drive.google.com/drive/folders/1heH23KzEVfOLYKyKstQUVjo2dVF7XpMq?usp=sharing)
+- [Yandex Mobilization 2016](https://github.com/Ciberusps/YandexMobilization) - [screenshots](https://drive.google.com/drive/folders/1EfgUdYRu1t3mWhriPp-LVpuJeoMVnQNM?usp=sharing)
 - [InstaGallery](https://github.com/Ciberusps/insta-gallery)
-- 
 
 </details>
