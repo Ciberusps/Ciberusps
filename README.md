@@ -15,12 +15,17 @@ react, react native, nodejs, nextjs, electron, typescript, koa, nodejs, styled-c
 
 [@winstrike](https://winstrike.gg/) - esports holding
 
-- [@winstrike/booking-mobile-app](https://github.com/winstrike/booking-mobile-app) - react-native + expo "bare", developed mobile app for booking seats in computer clubs from scratch, links on [android](https://play.google.com/store/apps/details?id=gg.winstrike.booking) and [ios](https://apps.apple.com/us/app/id1493178030?platform=iphone)
+- [@winstrike/booking-mobile-app](https://github.com/winstrike/booking-mobile-app) - react-native + expo "bare", developed mobile app for booking seats in computer clubs from scratch, links on [android](https://plyay.google.com/store/apps/details?id=gg.winstrike.booking) and [ios](https://apps.apple.com/us/app/id1493178030?platform=iphone)
   - made authentication flow - register, login, password reset, authentication with socials
   - onboarding flow - city selection, club selection, club info screen
   - booking flow - home screen, club section selection, section info screen, date and time selection screen, pack selection screen, seats selection screen, checkout screen and checkout webview with payment provider
   - announcements screen - one of the main communication channel with players, by clicking on push user sended on specific announcement
   - settings screen - u know editing user data, link socials and so on... those interesting things...
+  <details>
+    <summary>Screenshots & videos</summary>
+
+    [![Watch the video](https://lh3.googleusercontent.com/d/1-w89fOAJgv6SeJpLNj6IbwvdIw3rAPoX)](https://drive.google.com/file/d/1bO5FHds2ukcAX3fk7hDNBR9HqsTd3RbE/view?usp=sharing)
+  </details>
 - [@winstrike/winstrike-id](https://github.com/winstrike/winstrike-id) - nextjs(🙃) + koa, developed authentication service from scratch using oauth2/openid, it used in all @winstrike products like booking-mobile-app, booking-api, booking-widget, overplay, admin-desktop. Improved in authentication a lot, read some tech specs about OAuth2/OpenID and authentication security
 - [@winstrike/booking-api](https://github.com/winstrike/booking-api) - developed backend for sending notifications in `booking-api`
 - [@winstrike/booking_admin](https://github.com/winstrike/booking_admin) - react + CRA, backoffice for computer clubs admins, reworked whole frontend, simplified routing and simplified UX.
@@ -72,7 +77,7 @@ Open source
 
   Twitch extension | Owner | 09.2017
 
-  Twitch extension provide in-game statistics for the streamers currently support DOTA 2
+  [Twitch extension](https://dashboard.twitch.tv/extensions/4xthrtbw4oqjxl478qsjspia8vt3ra) provide in-game statistics for the streamers currently support DOTA 2
   Also integrated data from awesome personal esports training lab - GOSU.AI u can read about it here
 
   Techs: React, Postman, PostgreSQL, Webpack, MobX, Redis, yarn, yarn workspaces, lodash, Twitch API, Twitch Extensions
@@ -126,5 +131,7 @@ Open source
 
 - film search
 - Yandex Mobilization 2016
+- [InstaGallery](https://github.com/Ciberusps/insta-gallery)
+- 
 
 </details>
