@@ -44,7 +44,18 @@ Open source
 <details>
   <summary>Click me</summary>
 
-- artifaction.gg
+  <details>
+    <summary>artifaction.gg</summary>
+
+    Artifaction.gg - site about valve game - Artifact started by DOTA2/Esports enthusiasts well known in DOTA 2 community(@SirActionSlacks, @Cyborgmatt, @SUNSfanTV, @bukkadota, @followNoxville) to build best community project where people may come for anything they want - casual videos, twitch shows, stats, tournaments, hot news, cards info, learning, cardsmith to make their own cards, deck builder, pathfinder and much more.
+
+    I joined the team at the end of september. At start i wanted to make twitch extension - concept here later @bukkadota suggest me to help with site development and gave full freedom of choice of technology stack. 
+    There was many changes in project structure/tech stack, here some solutions we use:
+    - firebase cloud storage as CDN for UGC(raw images, thumbnails...)
+    - firebase hosting - for static assets(js, html, css, images, fonts...)
+    - cdn.artifaction.gg - repo for fetching images from artifact client and valve API -> processing them(trim, resize, convert) -> and save them in normalized structure. It use ValveResourceFormat to decompile assets from client.
+  </details>
+
 - bubbletext
 - gamestat
 - treasure simulator 2
@@ -55,10 +66,3 @@ Open source
 
 </details>
 
-
-## Technical challenges
-- вроде с аутентификацией чет было
-- вроде с пушами чет сложно было пезда
-- аутентификация с помощью apple - ебола с server-side генерацией всяких сертификатов и типо что нужно пушить раз в полгода заново
-- вроде с архитектурой booking-admin, message-manager и прочей хуйни было интересно
-- архитектура приложения для кассиров, данно - касса и принтер для печати чеков, они при подключении торчат на localhost'е на разных портах, кассы и принтеры могут быть от разных производителей. Нам нужно чтобы electron приложение поднимало сервисы написанные на java для кассы и принтера, которые будут торчать на localhost'е, при этом кассы и принтеры чеков могут быть от разных производителей, поэтому нам нужен был абстрактный сервис над ними который работал  который поднимался бы локально рядом с electron приложением и торчал в тырнеты(туннелился) через ngrok или localtunnel
