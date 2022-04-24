@@ -1,19 +1,19 @@
-# ciberusps
+## ciberusps
 
 Full-stack(front-end heavy) developer, passioned about games
 
 [telegram](https://t.me/Ciberus)
 
-## Experience
+### Experience
 
 - Web - 4 years commercial - react, react native, nodejs, electron
 - GameDev - unity 1,5 years commercial, UE4-UE5 - 5 months hobby, playcanvas - a bit hobby
 
-## Preferable techs
+### Preferable techs
 
 react, react native, nodejs, nextjs, electron, typescript, koa, nodejs, styled-components, eslint, prettier, postgresql, redis, sequelize, sentry, jest, expo, playcanvas, ue5
 
-## Projects
+### Projects
 
 [@winstrike](https://winstrike.gg/) - esports holding
 
@@ -65,4 +65,3 @@ Open source
 - Yandex Mobilization 2016
 
 </details>
-
