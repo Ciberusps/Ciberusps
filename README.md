@@ -36,6 +36,7 @@ Open source
 - [user-scripts](https://github.com/Ciberusps/user-scripts) - js scripts, some user scripts like dark theme for [dtf](https://dtf.ru), [vc](https://vc.ru/), [tjournal](https://tjournal.ru/) and [steam](https://store.steampowered.com/)
 - [@winstrike/react-native-webview](https://github.com/winstrike/react-native-webview) - made fork with temporary fix for applepay, [issue described here](https://github.com/react-native-webview/react-native-webview/issues/920#issuecomment-720305564), [npm package](https://github.com/winstrike/react-native-webview/packages/610545)
 - [playcanvas-typescript-example](https://github.com/Ciberusps/playcanvas-typescript-example) - js, playcanvas game engine, example of small FPS game written on typescript, as typesafe as possible and showing some approaches on how its possible to write code on with playcanvas [read forum post](https://forum.playcanvas.com/t/example-template-project-with-typescript/25272)
+- [find-steam-app](https://github.com/Ciberusps/find-steam-app) - pet-project, nodejs lib, helps find location of an installed Steam app
 
 ### Other projects - dead, old and forgotten
 
