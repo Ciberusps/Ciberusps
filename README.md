@@ -9,7 +9,7 @@ Full-stack(front-end heavy) developer, passioned about games, contact me [telegr
 
 ### **Preferable techs**
 
-react, react native, nodejs, nextjs, electron, typescript, koa, nodejs, styled-components, eslint, prettier, postgresql, redis, sequelize, sentry, jest, expo, playcanvas, ue5
+react, react native, nodejs, nextjs, electron, typescript, koa, styled-components, eslint, prettier, postgresql, redis, sequelize, sentry, jest, expo, playcanvas, ue5
 
 ### **Projects**
 
