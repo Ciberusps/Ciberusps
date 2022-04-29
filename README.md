@@ -30,7 +30,7 @@ react, react native, nodejs, nextjs, electron, typescript, koa, styled-component
 - [@winstrike/nivea-ultra-games](https://github.com/winstrike/nivea-ultra-games) - react + CRA + firebase, twitch extension, special project for nivea, with 4 mini-games
 - overplay - storybook components, еще чет
 
-Open source
+### Open source
 
 - [FireSave](https://github.com/Ciberusps/FireSave) - pet-project, electron app, videogames saves manager
 - [user-scripts](https://github.com/Ciberusps/user-scripts) - js scripts, some user scripts like dark theme for [dtf](https://dtf.ru), [vc](https://vc.ru/), [tjournal](https://tjournal.ru/) and [steam](https://store.steampowered.com/)
