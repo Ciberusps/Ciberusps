@@ -4,7 +4,7 @@ Full-stack(front-end heavy) developer, passioned about games, contact me [telegr
 
 ### **Experience**
 
-- Web - 4 years commercial - react, react native, nodejs, electron
+- Web - 4 years commercial - react, react native, nodejs, electron, typescript
 - GameDev - unity 1,5 years commercial, UE4-UE5 - 5 months hobby, playcanvas - a bit hobby
 
 ### **Preferable techs**
@@ -21,7 +21,10 @@ react, react native, nodejs, nextjs, electron, typescript, koa, styled-component
   - booking flow - home screen, club section selection, section info screen, date and time selection screen, pack selection screen, seats selection screen, checkout screen and checkout webview with payment provider
   - announcements screen - one of the main communication channel with players, by clicking on push user sended on specific announcement
   - settings screen - u know editing user data, link socials and so on... those interesting things...
-- [@winstrike/winstrike-id](https://github.com/winstrike/winstrike-id) - nextjs(🙃) + koa, developed authentication service from scratch using oauth2/openid, it used in all @winstrike products like booking-mobile-app, booking-api, booking-widget, overplay, admin-desktop. Improved in authentication a lot, read some tech specs about OAuth2/OpenID and authentication security
+- [@winstrike/winstrike-id](https://github.com/winstrike/winstrike-id) - nextjs(🙃) + koa, developed authentication service from scratch using oauth2/openid, it used in all @winstrike products
+  - made frontend for login/register
+  - apple authentication - was quite complex task its differs from default OAuth2 flows
+  - 
 - [@winstrike/booking-api](https://github.com/winstrike/booking-api) - developed backend for sending notifications in `booking-api`
 - [@winstrike/booking_admin](https://github.com/winstrike/booking_admin) - react + CRA, backoffice for computer clubs admins, reworked whole frontend, simplified routing and simplified UX.
 - [@winstrike/booking-widget](https://github.com/winstrike/booking-widget) - react + CRA, slightly helped with frontend
@@ -38,7 +41,7 @@ react, react native, nodejs, nextjs, electron, typescript, koa, styled-component
 - [playcanvas-typescript-example](https://github.com/Ciberusps/playcanvas-typescript-example) - js, playcanvas game engine, example of small FPS game written on typescript, as typesafe as possible and showing some approaches on how its possible to write code on with playcanvas [read forum post](https://forum.playcanvas.com/t/example-template-project-with-typescript/25272)
 - [find-steam-app](https://github.com/Ciberusps/find-steam-app) - pet-project, nodejs lib, helps find location of an installed Steam app
 
-### Other projects - dead, old and forgotten
+### Other projects - dead, old, lost and forgotten
 
 <details>
   <summary>Click me</summary>
