@@ -23,12 +23,12 @@ react, react native, nodejs, nextjs, electron, typescript, koa, styled-component
     - booking flow - home screen, club section selection, section info screen, date and time selection screen, pack selection screen, seats selection screen, checkout screen and checkout webview with payment provider
     - announcements screen - one of the main communication channel with players, by clicking on push user sended on specific announcement
     - settings screen - u know editing user data, link socials and so on... those interesting things...
-- [@winstrike/winstrike-id](https://github.com/winstrike/winstrike-id) - developed authentication service from scratch using oauth2/openid, it used in all [@winstrike](https://winstrike.gg/) products
+- [@winstrike/winstrike-id](https://github.com/winstrike/winstrike-id) - developed authentication service from scratch using oauth2/openid, it used in all @winstrike products [screenshots](https://drive.google.com/drive/folders/1dbAMkge5IVeBQAWo8Nr9KCVQ7PdX1bPA?usp=sharing)
   - techs: nextjs(🙃) + koa + redis + postgres + twilio + sendgrid
   - made:
-    - authentication via phone(OTP) and authentication via socials steam/vk/apple
     - frontend for register, login, password reset, email confirm, profile, profile editing
-    - authentication endpoints for our services based on OAuth2
+    - backend internal authentication via phone(OTP) and via socials steam/vk/apple
+    - backend external authentication endpoints for our services based on OAuth2
 - [@winstrike/booking-api](https://github.com/winstrike/booking-api) - developed backend for sending notifications in `booking-api`
 - [@winstrike/booking_admin](https://github.com/winstrike/booking_admin) - react + CRA, backoffice for computer clubs admins, reworked whole frontend, simplified routing and simplified UX.
 - [@winstrike/booking-widget](https://github.com/winstrike/booking-widget) - react + CRA, slightly helped with frontend
