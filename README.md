@@ -29,7 +29,7 @@ react, react native, nodejs, nextjs, electron, typescript, koa, styled-component
     - frontend for register, login, password reset, email confirm, profile, profile editing
     - backend internal authentication via phone(OTP) and via socials steam/vk/apple
     - backend external authentication endpoints for our services based on OAuth2
-- [@winstrike/booking-api](https://github.com/winstrike/booking-api) - developed backend for sending notifications in `booking-api`
+- [@winstrike/booking-api](https://github.com/winstrike/booking-api) - developed backend for sending notifications, some endpoints and unit tests
 - [@winstrike/booking_admin](https://github.com/winstrike/booking_admin) - react + CRA, backoffice for computer clubs admins, reworked whole frontend, simplified routing and simplified UX.
 - [@winstrike/booking-widget](https://github.com/winstrike/booking-widget) - react + CRA, slightly helped with frontend
 - [@winstrike/admin-desktop](https://github.com/winstrike/admin-desktop) and [@winstrike/booking-desktop](https://github.com/winstrike/booking-desktop) - electron apps, fixed several issues
