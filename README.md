@@ -35,7 +35,7 @@ react, react native, nodejs, nextjs, electron, typescript, koa, styled-component
 - [@winstrike/admin-desktop](https://github.com/winstrike/admin-desktop) and [@winstrike/booking-desktop](https://github.com/winstrike/booking-desktop) - electron apps, fixed several issues
 - [@winstrike/xxxtension](https://github.com/winstrike/xxxtension) - react + CRA, twitch extension
 - [@winstrike/nivea-ultra-games](https://github.com/winstrike/nivea-ultra-games) - react + CRA + firebase, twitch extension, special project for nivea, with 4 mini-games
-- overplay - storybook components, еще чет
+- overplay - storybook components, ...
 
 ### Open source
 
