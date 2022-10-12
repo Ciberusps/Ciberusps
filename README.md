@@ -92,7 +92,7 @@ react, react native, nodejs, nextjs, electron, typescript, koa, styled-component
     Activations - 1603,
     Views - 8,477,823,
     Uniq Viewers - 4,899,421,
-    Uniq Viewers(09.01-07.02) - 240,888,
+    Uniq Viewers(09.01-07.02) - 240,888
     Clicks - 9,927,763,
     Uniq Interactions - 1,123,464,
     Uniq Interactions(09.01-07.02) - 64,278,
