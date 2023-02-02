@@ -11,7 +11,7 @@ Full-stack(front-end heavy) developer, passioned about games, contact me [telegr
 
 Web - react, react native, nodejs, nextjs, electron, typescript, koa, styled-components, eslint, prettier, postgresql, redis, sequelize, sentry, jest, expo
 
-GameDev - UE4-UE5, playcanvas, GameplayAbilitySystem(GAS), CommonUI, EnhancedInputSystem
+GameDev - UE4-UE5, playcanvas, GameplayAbilitySystem(GAS), CommonUI, EnhancedInputSystem, GameplayTags, BehaviorTrees, Blender, Send2UE
 
 ### **Projects**
 
