@@ -5,7 +5,7 @@ Full-stack(front-end heavy) developer, passioned about games, contact me [telegr
 ### **Experience**
 
 - Web - 4 years commercial - react, react native, nodejs, electron, typescript
-- GameDev - unity 1.5 years commercial, UE4-UE5 1 year commercial and 2.5 years hobby, playcanvas a bit 2 months commercial
+- GameDev - UE4-UE5 1.5 years commercial and 2.5 years hobby, unity 1.5 years commercial, playcanvas a bit 2 months commercial
 
 ### **Preferable techs**
 
