@@ -1,6 +1,7 @@
 # CiberusPS CV
 
-Full-stack(front-end heavy) developer, passioned about games, contact me [telegram](https://t.me/Ciberus), [email](mailto:ciberus.ps+github@gmail.com)
+Game developer. Contacts [telegram](https://t.me/Ciberus), [email](mailto:ciberus.ps+github@gmail.com)
+ex. Full-stack(front-end heavy) developer, passioned about games
 
 ### **Experience**
 
